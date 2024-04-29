@@ -1,5 +1,5 @@
 Frontend\
-[![Frontend](https://skillicons.dev/icons?i=html,css,sass,tailwind,js,ts,react,nextjs,vue,nuxt,pinia&theme=dark)](https://skillicons.dev)\
+[![Frontend](https://skillicons.dev/icons?i=html,css,sass,tailwind,js,ts,react,nextjs,vue,nuxt,pinia&theme=dark&perline=6)](https://skillicons.dev)\
 Backend\
 [![Backend](https://skillicons.dev/icons?i=py,go,rust,postgres,redis,docker&theme=dark)](https://skillicons.dev)\
 Mobile\

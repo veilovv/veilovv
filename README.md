@@ -3,7 +3,7 @@
 ## Frontend
 [![Frontend](https://skillicons.dev/icons?i=html,css,sass,tailwind,js,ts,nodejs,react,nextjs,vue,nuxt,pinia&theme=dark&perline=6)](https://skillicons.dev)
 ## Backend
-[![Backend](https://skillicons.dev/icons?i=py,go,rust,postgres,redis,docker,nginx&theme=dark&perline=6)](https://skillicons.dev)
+[![Backend](https://skillicons.dev/icons?i=py,go,rust,postgres,redis,docker,nginx,grafana,prometheus&theme=dark&perline=6)](https://skillicons.dev)
 ## Mobile
 [![Mobile](https://skillicons.dev/icons?i=kotlin,swift&theme=dark)](https://skillicons.dev)
 ## Editors

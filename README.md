@@ -1,9 +1,9 @@
 # Skills and interests
 
 ## Frontend
-[![Frontend](https://skillicons.dev/icons?i=html,css,sass,tailwind,js,ts,react,nextjs&theme=dark&perline=6)](https://skillicons.dev)
+[![Frontend](https://skillicons.dev/icons?i=html,css,sass,tailwind,js,ts,nodejs,react,nextjs&theme=dark&perline=6)](https://skillicons.dev)
 ## Backend
-[![Backend](https://skillicons.dev/icons?i=py,go,rust,postgres,redis,docker,nginx,grafana,prometheus&theme=dark&perline=6)](https://skillicons.dev)
+[![Backend](https://skillicons.dev/icons?i=go,rust,postgres,redis,docker,nginx,grafana,prometheus&theme=dark&perline=6)](https://skillicons.dev)
 ## Editor
 [![Editors](https://skillicons.dev/icons?i=vscode&theme=dark)](https://skillicons.dev)
 ## Other stuff

@@ -1,4 +1,4 @@
-[![Frontend](https://skillicons.dev/icons?i=html,css,sass,tailwind,js,ts,nodejs,vite,astro,react,nextjs&theme=dark&perline=6)](https://skillicons.dev)
+[![Frontend](https://skillicons.dev/icons?i=html,css,sass,tailwind,js,ts,nodejs,vite,react,nextjs,astro&theme=dark&perline=6)](https://skillicons.dev)
 
 [![Backend](https://skillicons.dev/icons?i=go,py,rust,tauri,kotlin,swift,postgres,redis,rabbitmq,docker,prometheus,grafana,pkl,git&theme=dark&perline=6)](https://skillicons.dev)
 
